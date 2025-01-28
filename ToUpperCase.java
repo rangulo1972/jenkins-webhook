@@ -5,7 +5,7 @@ public class ToUpperCase {
             String output = input.toUpperCase();
             System.out.println(output);
         } else {
-            System.out.println("Debe ingresar argumento por ejemplo: XXXXXXXX ");
+            System.out.println("Debe ingresar argumento como ejemplo: XXXXXXXX ");
         }
     }
 }
